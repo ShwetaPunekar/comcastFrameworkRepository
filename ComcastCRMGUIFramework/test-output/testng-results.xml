@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-24T15:15:17 IST" name="Suite" finished-at="2024-06-24T15:16:01 IST" duration-ms="43923">
+    <groups>
+      <group name="RegressionTest">
+        <method signature="CrmApp_CreateContactTest.createContactWithDate()[pri:0, instance:FrameWork.CrmApp_CreateContactTest@548a24a]" name="createContactWithDate" class="FrameWork.CrmApp_CreateContactTest"/>
+        <method signature="CrmApp_CreateContactTest.createContactWithOrganization()[pri:0, instance:FrameWork.CrmApp_CreateContactTest@548a24a]" name="createContactWithOrganization" class="FrameWork.CrmApp_CreateContactTest"/>
+      </group> <!-- RegressionTest -->
+    </groups>
+    <test started-at="2024-06-24T15:15:17 IST" name="Test" finished-at="2024-06-24T15:16:01 IST" duration-ms="43923">
+      <class name="FrameWork.CrmApp_CreateContactTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:FrameWork.CrmApp_CreateContactTest@548a24a]" started-at="2024-06-24T15:15:16 IST" name="configBS" finished-at="2024-06-24T15:15:17 IST" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:FrameWork.CrmApp_CreateContactTest@548a24a]" started-at="2024-06-24T15:15:17 IST" name="configBC" finished-at="2024-06-24T15:15:20 IST" duration-ms="3395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:FrameWork.CrmApp_CreateContactTest@548a24a]" started-at="2024-06-24T15:15:20 IST" name="configBM" finished-at="2024-06-24T15:15:24 IST" duration-ms="4267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createContactWithDate()[pri:0, instance:FrameWork.CrmApp_CreateContactTest@548a24a]" started-at="2024-06-24T15:15:24 IST" name="createContactWithDate" finished-at="2024-06-24T15:15:34 IST" duration-ms="9907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactWithDate -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:FrameWork.CrmApp_CreateContactTest@548a24a]" started-at="2024-06-24T15:15:34 IST" name="configAM" finished-at="2024-06-24T15:15:36 IST" duration-ms="1922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:FrameWork.CrmApp_CreateContactTest@548a24a]" started-at="2024-06-24T15:15:36 IST" name="configBM" finished-at="2024-06-24T15:15:39 IST" duration-ms="2813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createContactWithOrganization()[pri:0, instance:FrameWork.CrmApp_CreateContactTest@548a24a]" started-at="2024-06-24T15:15:39 IST" name="createContactWithOrganization" finished-at="2024-06-24T15:15:59 IST" duration-ms="19763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactWithOrganization -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:FrameWork.CrmApp_CreateContactTest@548a24a]" started-at="2024-06-24T15:15:59 IST" name="configAM" finished-at="2024-06-24T15:16:00 IST" duration-ms="1319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:FrameWork.CrmApp_CreateContactTest@548a24a]" started-at="2024-06-24T15:16:00 IST" name="configAC" finished-at="2024-06-24T15:16:01 IST" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:FrameWork.CrmApp_CreateContactTest@548a24a]" started-at="2024-06-24T15:16:01 IST" name="configAS" finished-at="2024-06-24T15:16:01 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- FrameWork.CrmApp_CreateContactTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
